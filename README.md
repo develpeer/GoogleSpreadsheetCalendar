@@ -60,7 +60,7 @@ Follow the steps below to make a calendar in Google Sheets.
 
 ![Changing the year parameter](images/annotations.png)
 
-###@todo: 
+### @todo: 
 Might add more params, like starting month, and also the ability to do just a single mothe etc. Please reach out if you need other features. 
 
 
