@@ -10,6 +10,10 @@ Create a calendar view inside Google Sheets. Wanted to embed a simple calendar v
 * You can add comments in the cells 
 * Fairly easy to add multiple years, or show fewer months. But may need some editing
 
+### Download Printable calendars
+
+### Create your own Calendar
+
 ### Changing the year 
 ![Changing the year parameter](images/calendar_setup.png)
 
@@ -19,4 +23,6 @@ Create a calendar view inside Google Sheets. Wanted to embed a simple calendar v
 
 ###@todo: 
 Might add more params, like starting month, and also the ability to do just a single mothe etc. Please reach out if you need other features. 
+
+
 
