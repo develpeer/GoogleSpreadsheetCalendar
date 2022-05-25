@@ -1,5 +1,5 @@
-#Skip the bullshit
-Copy the spreadsheet here ( [Editable Calendar for any year in Google Sheets](https://docs.google.com/spreadsheets/d/13Ip7XqFefAhJLJExgPwqhUVyzK9U10TeIDiKt4Wc6SU/edit?usp=sharing) )
+# Skip the bullshit
+Copy the spreadsheet here :arrow_right:  [Editable Calendar for any year in Google Sheets](https://docs.google.com/spreadsheets/d/13Ip7XqFefAhJLJExgPwqhUVyzK9U10TeIDiKt4Wc6SU/edit?usp=sharing) 
 
 Read on for more detailed instuctions ...
 
@@ -32,7 +32,7 @@ Follow the steps below to make a calendar in Google Sheets.
 
 
 ### Create your own custom calendar in seconds
-* Make a copy of this ( [Google Sheet](https://docs.google.com/spreadsheets/d/13Ip7XqFefAhJLJExgPwqhUVyzK9U10TeIDiKt4Wc6SU/edit?usp=sharing) )
+* Make a copy of this :arrow_right: \([Google Sheet](https://docs.google.com/spreadsheets/d/13Ip7XqFefAhJLJExgPwqhUVyzK9U10TeIDiKt4Wc6SU/edit?usp=sharing)\)
 * Change the year in the first cell. 
 * And you're done. 
 
