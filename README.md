@@ -1,3 +1,8 @@
+#Skip the bullshit
+Copy the spreadsheet here ( [Editable Calendar for any year in Google Sheets](https://docs.google.com/spreadsheets/d/13Ip7XqFefAhJLJExgPwqhUVyzK9U10TeIDiKt4Wc6SU/edit?usp=sharing) )
+
+Read on for more detailed instuctions ...
+
 # Google Sheets Calendar
 Project originated becuase I was looking for a way to create a calendar view within an editable document.Quite a few "templates" out there. But some are paid, others are partially done, static, or difficult to use. 
 
